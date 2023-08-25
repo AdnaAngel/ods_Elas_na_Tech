@@ -1,0 +1,162 @@
+body{
+background-color: rgb(166, 204, 238);
+}
+header{
+height: 50%;
+display:block;
+right: 10%;
+background-color:#337ccf;
+
+}
+.link{
+float:right;
+margin-right: 5%;
+word-spacing: 40%;
+
+
+
+}
+
+#li{
+list-style: none;
+float:left;
+padding: 5px 20px;
+color:black;
+font-family: Arial;
+text-decoration: none;
+
+}
+li:hover{
+background-color:#337ccf;
+color:black;
+}
+a:link{
+text-decoration: none;
+}
+
+#imagem_capa{ 
+background-image: url("./img/terra.jpg");
+text-align: center;
+width: 100%;
+height: 600px;
+margin:20px;
+background-size: cover;
+
+}
+#titulo_capa {
+color: white;
+padding-top: 20%;
+font-size: 70px;
+line-height: 0.6;
+text-align: center;
+}
+
+#sub_titulo {
+color: white;
+margin:20px;
+border-top: 3px solid white;
+text-shadow: 1px 1px  black;
+}
+
+#acao {
+color: white;
+border: 1px rgb(40, 0, 0) solid;
+padding:10px 15px;
+text-rendering: initial;
+}
+
+.imagem_1{
+float: left;
+padding: 0 5%;
+position:relative;
+width:30%;
+}
+.paragrafo_1{
+font-family:'Times New Roman';
+text-align: left;
+margin-block: 0 15%;
+text-align: justify;
+padding:20 10%;
+word-spacing: 20%;
+line-height: 20px;
+
+}
+.imagem_2{
+float: left;
+width: 30%;
+padding: 0 5%;
+position:relative;
+margin: 0 5px;
+}
+.paragrafo_2{
+font-family:'Times New Roman';
+text-align: left;
+margin-block: 0 5%;
+text-align: justify;
+padding-block: 5 0% ;
+word-spacing: 20%;
+line-height: 20px;
+}
+.imagem_3{
+float: left;
+width: 30%;
+padding:0 5%;
+position:relative;
+margin: 0 5px;
+}
+
+#paragrafo_3{
+font-family:'Times New Roman';
+text-align: left;
+margin-block: 0 5%;
+text-align: justify;
+padding-block: 5 0% ;
+line-height:25px;
+}
+.centralizado{
+text-align: center;
+}
+.minha_foto{
+float: left;
+    width: 50%;
+    padding:0 5%;
+    position:relative;
+    margin: 0 5px;
+    }
+
+
+.sobre_mim{
+
+text-align: left;
+
+}
+#eu{
+    float: flex;
+    font-family:'Times New Roman';
+    text-align: left;
+    margin-block: 0 5%;
+    text-align: justify;
+    padding:10 5%;
+    word-spacing: 5%;
+    line-height: 20px;
+    
+
+}
+.rodape{
+float:center;    
+text-align: center;
+margin: auto;
+width: 80%;
+font-size: 15px;
+font-family:arial;
+text-decoration: solid;
+}
+
+.creditos{
+text-decoration: none; 
+text-align: center;
+}
+#sites{
+color:black
+}
+
