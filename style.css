@@ -115,7 +115,7 @@ line-height:25px;
 }
 .centralizado{
 text-align: center;
-margin:
+
 }
 .minha_foto{
 float: left;
@@ -125,9 +125,7 @@ position:relative;
 margin: 0 5px;
 }
 
-
 .sobre_mim{
-
 text-align: left;
 
 }
@@ -195,7 +193,7 @@ background-image:center;
     margin: 50px;
     
 }
-#eu,{
+#eu{
 display: block;
 width: 80%;
 padding:0;
@@ -204,7 +202,7 @@ float: none;
 
 }
 .creditos,.rodape{
-    text-align: left;
-    display: block;
+text-align: left;
+display: block;
 }
 }
